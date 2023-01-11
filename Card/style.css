@@ -1,0 +1,18 @@
+body{
+    background-image: url('');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    position: relative;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgba(225, 225, 225, 0.1);
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.4);
+    height: 350px;
+    width: 250px;
+}
